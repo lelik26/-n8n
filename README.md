@@ -49,7 +49,8 @@
 <img width="512" alt="Снимок экрана 2025-05-08 в 08 33 52" src="https://github.com/user-attachments/assets/8646ada8-125d-4be6-8a9d-eb595a95d547" />
 <img width="512" alt="Снимок экрана 2025-05-08 в 08 34 58" src="https://github.com/user-attachments/assets/16bdec48-da68-4321-a9ee-7042fee53896" />
 
-- 
+- **Подробно проекты** можно рассмотреть в папках:
+    - [Home_Bot](Home_Bot)
 - и другие проекты в тестировании
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 📫 **Давайте работать вместе!** → [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Aleks79Sib) | [Портфолио](https://github.com/lelik26)|[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:htclelik@gmail.com)
