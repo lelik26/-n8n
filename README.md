@@ -50,6 +50,13 @@
 <img width="512" alt="Снимок экрана 2025-05-08 в 08 34 58" src="https://github.com/user-attachments/assets/16bdec48-da68-4321-a9ee-7042fee53896" />
 
 - 
-- и другие проекты в тестировании
+## Список проектов
+
+- [Home_Bot](./Home_Bot/README.md)
+- [Анализ вакансий](./Analisys_Vacancy/analisys_vac.pdf)
+- [Карьерный консультант](./Career_Consultant/сareer_consultant.pdf)]
+- [Новостной парсер телеграм канала](./RSS_TG/parser_TG_canal.pdf)
+- [Агент по объяснению кода](./Code_Bot/)
+- [Персональный ментор](./Personal_Mentor_Bot/)
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 📫 **Давайте работать вместе!** → [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Aleks79Sib) | [Портфолио](https://github.com/lelik26)|[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:htclelik@gmail.com)
