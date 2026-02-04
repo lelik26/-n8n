@@ -54,7 +54,7 @@
 
 - [Home_Bot](./Home_Bot/README.md)
 - [Анализ вакансий](./Analisys_Vacancy/analisys_vac.pdf)
-- [Карьерный консультант](./Career_Consultant/сareer_consultant.pdf)]
+- [Карьерный консультант](./Career_Consultant/сareer_consultant.pdf)
 - [Новостной парсер телеграм канала](./RSS_TG/parser_TG_canal.pdf)
 - [Агент по объяснению кода](./Code_Bot/)
 - [Персональный ментор](./Personal_Mentor_Bot/)
