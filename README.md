@@ -99,7 +99,7 @@ AI/ML:         Google Gemini 2.5 Flash, LangChain Memory
 - **Контекстные ответы** с учетом истории диалога
 
 #### 🔗 Документация:
-- [Инструкция пользователя Схема и workflow](./Code_Bot/coder_bot.md)
+- [Подробное описание и Схема workflow](./Code_Bot/coder_bot.md)
 
 
 ---
@@ -131,7 +131,7 @@ AI/ML:         Google Gemini 2.5 Flash, LangChain Memory
 - Время на создание спецификации: **5 минут вместо 2 часов**
 
 #### 🔗 Документация:
-- [Описание бота и Схема workflow](./Engineer_Bot/engineer_bot.md)
+- [Подробное описание и Схема workflow](./Engineer_Bot/engineer_bot.md)
 
 ---
 
@@ -164,7 +164,7 @@ AI/ML:         OpenAI GPT-4, DALL-E 3, Tavily Search
 - **Мгновенное** создание событий и писем
 
 #### 🔗 Документация:
-- [Подробное описание](./Home_Bot/README.md)
+- [Подробное описание и Схема workflow]()
 
 ---
 
@@ -196,6 +196,8 @@ AI/ML:         OpenAI GPT-4.1
 - **30+ готовых постов** за один запуск
 - **Экономия 15-20 часов** в месяц
 
+#### 🔗 Документация:
+- [Подробное описание и Схема workflow]()
 ---
 
 ### 7. 📊 Vacancy Analyzer — Анализатор вакансий
@@ -256,7 +258,7 @@ AI/ML:         OpenAI GPT-4 (анализ резюме, scoring)
 - **Снижение времени найма на 40%**
 
 #### 🔗 Документация:
-- [Описание системы](./Career_Consultant/сareer_consultant.pdf)
+- [Описание и отчет по навыкам](./Career_Consultant/сareer_consultant.pdf)
 
 ---
 
@@ -289,7 +291,8 @@ AI/ML:         OpenAI GPT-4 (категоризация и суммаризац�
 - **Персонализированные** дайджесты
 
 #### 🔗 Документация:
-- [Техническое описание](./RSS_TG/parser_TG_canal.pdf)
+
+- [Подробное описание и Схема workflow](./RSS_TG/parser_TG_canal.pdf)
 
 ---
 
@@ -297,15 +300,15 @@ AI/ML:         OpenAI GPT-4 (категоризация и суммаризац�
 
 | № | Проект | Тип | AI-модель | Основные интеграции | Сложность | Срок |
 |---|--------|-----|-----------|---------------------|-----------|------|
-| 1 | Home Bot | Чат-бот с БД | GPT-4, Whisper, Embeddings | Telegram, Pinecone, Google Drive | ⭐⭐⭐⭐ | 5 дней |
-| 2 | Personal Mentor | Образовательный бот | GPT-4, Tavily | Telegram, n8n Tables, Google | ⭐⭐⭐⭐⭐ | 7 дней |
-| 3 | CodeLowBot | Обучающий бот | Gemini 2.5 Flash | Telegram, LangChain | ⭐⭐⭐ | 3 дня |
-| 4 | Victor Engineer | Инженерный бот | GPT-4 | Telegram, Google Sheets | ⭐⭐⭐ | 4 дня |
-| 5 | Home Assistant | Личный ассистент | GPT-4, DALL-E 3 | Telegram, Gmail, Calendar, Tavily | ⭐⭐⭐⭐⭐ | 6 дней |
-| 6 | Content Generator | Контент-генератор | GPT-4.1 | Telegram, Google Workspace | ⭐⭐ | 2 дня |
-| 7 | Vacancy Analyzer | Парсер вакансий | GPT-4 | HH.ru, LinkedIn, Supabase | ⭐⭐⭐⭐ | 5 дней |
-| 8 | Career Consultant | HR-система | GPT-4 | Google Drive, Supabase | ⭐⭐⭐⭐ | 5 дней |
-| 9 | RSS TG Parser | Новостной парсер | GPT-4 | Telegram API, RSS | ⭐⭐⭐ | 3 дня |
+| 1 | Home Bot | Чат-бот с БД | GPT-4, Whisper | Telegram | ⭐⭐⭐ | 5 дней |
+| 2 | Personal Mentor | Образовательный бот | GPT-4, Tavily | Telegram, n8n Tables, Google | ⭐⭐⭐⭐⭐ | 10 дней |
+| 3 | CodeLowBot | Обучающий бот | Gemini 2.5 Flash | Telegram, LangChain | ⭐⭐ | 3 дня |
+| 4 | Victor Engineer | Инженерный бот | GPT-4 | Telegram, Google Sheets | ⭐⭐⭐ |5 дней |
+| 5 | Home Assistant | Личный ассистент | GPT-4, DALL-E 3 | Telegram, Gmail, Calendar, Tavily | ⭐⭐ | 5 дней |
+| 6 | Content Generator | Контент-генератор | GPT-4.1 | Telegram, Google Workspace | ⭐⭐⭐⭐ | 10 дней |
+| 7 | Vacancy Analyzer | Парсер вакансий | GPT-4 | HH.ru, LinkedIn, Supabase | ⭐⭐ | 3 дня |
+| 8 | Career Consultant | HR-система | GPT-4 | Google Drive, Supabase | ⭐⭐ | 3 дня |
+| 9 | RSS TG Parser | Новостной парсер | GPT-4 | Telegram API, RSS | ⭐⭐ | 3 дня |
 
 **Сложность:**  
 ⭐ — Базовый | ⭐⭐ — Простой | ⭐⭐⭐ — Средний | ⭐⭐⭐⭐ — Сложный | ⭐⭐⭐⭐⭐ — Очень сложный
