@@ -98,7 +98,7 @@ Telegram Trigger → Проверка доступа → Switch (команды)
 
 - **Платформа**: n8n (автоматизация workflow)
 - **Мессенджер**: Telegram Bot API
-- **AI**: OpenAI Chat Model (gpt-4 или gpt-3.5-turbo)
+- **AI**: Google Gemini 2.5 Flash, LangChain Memory
 - **Поиск**: Tavily Search API
 - **Язык программирования**: JavaScript (для расчетных узлов)
 
